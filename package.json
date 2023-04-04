@@ -1,0 +1,25 @@
+{
+  "name": "snippets-redux-observable",
+  "displayName": "Snippets redux-observable",
+  "description": "Code snippets for redux-observable",
+  "version": "0.0.1",
+  "publisher": "goran-mrzljak",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrzli-vscode-extensions/snippets-redux-observable"
+  },
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "typescript,typescriptreact",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
