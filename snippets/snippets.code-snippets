@@ -68,7 +68,7 @@
   "Redux-observable 4-action eu": {
     "scope": "typescript,typescriptreact",
     "prefix": "gmroa4eu",
-    "description": "Redux-observable action 4-set for api request, has payload input, no payload for fulfilled (ee).",
+    "description": "Redux-observable action 4-set for api request, has payload input, no payload for fulfilled (eu).",
     "body": [
       "export const ACTION_TYPE_${2:ACTION_NAME} = '${1:ActionName}';",
       "export type ActionType${1:ActionName} = typeof ACTION_TYPE_${2:ACTION_NAME};",
@@ -106,7 +106,7 @@
   "Redux-observable 4-action ue": {
     "scope": "typescript,typescriptreact",
     "prefix": "gmroa4ue",
-    "description": "Redux-observable action 4-set for api request, no payload input, has payload for fulfilled (ee).",
+    "description": "Redux-observable action 4-set for api request, no payload input, has payload for fulfilled (ue).",
     "body": [
       "export const ACTION_TYPE_${2:ACTION_NAME} = '${1:ActionName}';",
       "export type ActionType${1:ActionName} = typeof ACTION_TYPE_${2:ACTION_NAME};",
@@ -144,7 +144,7 @@
   "Redux-observable 4-action uu": {
     "scope": "typescript,typescriptreact",
     "prefix": "gmroa4uu",
-    "description": "Redux-observable action 4-set for api request, no payload input, no payload for fulfilled (ee).",
+    "description": "Redux-observable action 4-set for api request, no payload input, no payload for fulfilled (uu).",
     "body": [
       "export const ACTION_TYPE_${2:ACTION_NAME} = '${1:ActionName}';",
       "export type ActionType${1:ActionName} = typeof ACTION_TYPE_${2:ACTION_NAME};",
